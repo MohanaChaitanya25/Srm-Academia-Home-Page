@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    overflow: hidden;
+}
+.main-content{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 100px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+.content-img{
+    margin: 20px;
+    height: 200px;
+    width: 400px;
+}

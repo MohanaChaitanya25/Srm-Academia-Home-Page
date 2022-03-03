@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+.home-bar{
+    height: 100vh;
+    width: 28%;
+    margin: 0px;
+    color: black;
+    
+    
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+   font-size: 15px;
+}
+li{
+    padding: 20px 30px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+li:hover{
+    background-color: grey;
+}
